@@ -9,4 +9,6 @@ main:
     url: /about/
   - title: "Assignments"
     url: /assignments/
+  - title: "DLN"
+    url: /dln/    
   
