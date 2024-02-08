@@ -1,6 +1,6 @@
 ---
 permalink: /dln/
-title: "DLN"
+title: "Digital Literacy Narrative"
 ---
 As a junior at NYUAD majoring in Interactive Media with minors in Environmental Studies and Art History, I find myself on the precipice of a thrilling journey into the realms of digital humanities. This semester, I eagerly embarked on an introductory course in digital humanities, seeking to broaden my understanding of this dynamic field and to cultivate new digital literacies.
 
