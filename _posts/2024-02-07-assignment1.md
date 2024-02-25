@@ -36,7 +36,7 @@ Upon closer examination of "*Girl under Tree*," I was struck by the stark contra
 
 My exploration of the museum's collection revealed that "*Girl under Tree*" is but one example of many similarly understated works that populate the museum's archives. These pieces, while perhaps lacking in grandiosity or renown, possess an intrinsic charm and authenticity that merit recognition. Often overlooked in favor of more prominent exhibits, these humble artworks offer a glimpse into everyday life, capturing moments of quiet beauty and introspection.
 
-# Part 3: Exploring Cultural Significance Through Word Clouds
+# Part 3: Exploring Cultural Significance 
 
 For this part, I selected German, British, and Austrian cultures for their rich artistic traditions. German art reflects a blend of tradition and innovation seen in movements like Expressionism and Bauhaus. British art spans centuries, from Tudor portraits to contemporary works. Austrian art, with its roots in the Vienna Secession and Art Nouveau movements, offers a unique perspective on European art history.
 
