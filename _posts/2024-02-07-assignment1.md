@@ -1,3 +1,7 @@
+---
+title: "Post: Assignment 1"
+---
+
 In my exploration of the **Harvard Art Museum website**, I found its design to be refreshingly *minimalistic* and intuitively **user-friendly**. Much like the serene ambiance of a museum's white walls, the absence of clutter allowed me to focus entirely on the artworks themselves. The website's layout facilitated easy navigation, and I appreciated the robust **filter functionality** that enabled me to refine my search based on various criteria such as place, time period, artistic style, and type of object. This convenience significantly enhanced the browsing experience, enabling me to delve deeper into the museum's extensive collection effortlessly.
 
 One artist who particularly caught my attention during my exploration was **Renoir**. Intrigued by the recurrent sightings of his works, I decided to delve into the Harvard Art Museum's collection to explore his pieces further. Renoir's distinctive style, characterized by sentimental portraits and impressionistic brushwork, captivated me. As I perused his artworks on the website, I stumbled upon something new and intriguing: his sketches. One piece that stood out to me was "**The Meeting**," a captivating portrayal that exemplifies Renoir's dynamic and lively approach to painting. [Link to "The Meeting"](https://harvardartmuseums.org/collections/object/293701?position=293701)
