@@ -3,12 +3,12 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-As a *junior* at **NYUAD** majoring in **Interactive Media** with minors in **Environmental Studies** and **Art History**, I find myself on the precipice of a thrilling journey into the realms of digital humanities. This semester, I eagerly embarked on an introductory course in digital humanities, seeking to broaden my understanding of this dynamic field and to cultivate new digital literacies.
+As a junior at **NYUAD** majoring in **Interactive Media** with minors in **Environmental Studies** and **Art History**, I find myself on the precipice of a thrilling journey into the realms of digital humanities. This semester, I eagerly embarked on an introductory course in digital humanities, seeking to broaden my understanding of this dynamic field and to cultivate new digital literacies.
 Coming then, I opened a new sphere of interest, something I never heard about before and never thought of learning as a separate chapter.
 
 As I delve deeper into my studies of digital humanities, the convergence of technology and storytelling emerges as a captivating focal point. Initially, I perceived this domain as primarily concerned with written narratives, confined within the boundaries of letters and sentences. However, through a series of workshops featuring diverse tools and methodologies, my perspective has expanded exponentially.
 
-For instance, the exploration of Sufi art revealed profound layers of meaning behind intricate calligraphies, illuminating their significance within the Islamic world. Prior to this encounter, I had never delved into the depths of these artworks, unaware of the rich narratives woven into their very strokes. This revelation underscored the multidimensionality of storytelling within digital humanities, transcending traditional notions of textual narrative.
+For instance, the exploration of *Sufi* art revealed profound layers of meaning behind intricate calligraphies, illuminating their significance within the Islamic world. Prior to this encounter, I had never delved into the depths of these artworks, unaware of the rich narratives woven into their very strokes. This revelation underscored the multidimensionality of storytelling within digital humanities, transcending traditional notions of textual narrative.
 
 Moreover, digital mapping emerged as a cognitive process extending far beyond mere cartography. Through the lens of GIS science, I learned to perceive mapping as a dynamic tool for ordering and interpreting the world. Beyond simple spatial representation, digital mapping facilitates complex analyses and insights, enriching our understanding of geographic phenomena.
 
