@@ -38,6 +38,39 @@ My exploration of the museum's collection revealed that "*Girl under Tree*" is b
 
 # Part 3: Exploring Cultural Significance 
 
-For this part, I selected German, British, and Austrian cultures for their rich artistic traditions. German art reflects a blend of tradition and innovation seen in movements like Expressionism and Bauhaus. British art spans centuries, from Tudor portraits to contemporary works. Austrian art, with its roots in the Vienna Secession and Art Nouveau movements, offers a unique perspective on European art history.
+I chose to look at artworks from Spain, Germany, and Austria because I've been really interested in the history of this cultures lately. These three countries have a long story of interacting with each other, which makes their art even more interesting to explore. Spain, Germany, and Austria have shared a lot of cultural connections over the years because of things like trade and politics. So, by looking at their art, I wanted to see how those connections influenced what ended up in the Harvard Art Museum.
 
+> Derived data highlights the varying degrees of representation for each culture within the Harvard Art Museum's collection. While German culture appears to be extensively represented with over **31,000** objects, Austrian and Spanish cultures have comparatively fewer objects, with **429** and **1,119** respectively.
+![Alt Text](/assets/images/imageN.jpg)
+
+When I looked at the descriptions and titles of artworks from these countries, I noticed some interesting patterns. Each country's art had its own unique themes and ideas. 
+
+Each *Word Cloud* reveals distinct themes and motifs that reflect the cultural significance and artistic traditions of the respective cultures. By removing high-frequency words(*"nan", "of", "a", "and", "from", "the", "in", "on", "with", "as", "at", "to", "page", "Pages", "Page"*), I was able to delve deeper into the textual data, uncovering nuanced details and lesser-known aspects of each culture's heritage.
+
+**Austrian Culture:**
+ The history of the Austrian Empire and its influence on Central European art and culture is significant. Austria has been a hub of artistic innovation and patronage for centuries, with Vienna serving as a cultural capital in the heart of Europe. The word cloud for Austrian culture features words like "surface," "design," and "decoration," indicating a focus on applied arts.
+![Alt Text](/assets/images/imageA.jpg)
+
+**German Culture:**
+ Germany has a rich artistic heritage that spans from the medieval period to the modern era. It has been home to influential movements such as Romanticism, Expressionism, and Bauhaus, which have left a lasting impact on the global art scene. 
+ The inclusion of words like "Baltic" and "coast" in the word cloud analysis of German culture can be attributed to several factors. Germany has a significant coastline along the Baltic Sea and coastal regions often serve as sources of inspiration for artists, offering scenic views, maritime themes, and connections to maritime trade and exploration.
+ ![Alt Text](/assets/images/imageG.jpg)
+
+
+**Spanish Culture:**
+ Spain's cultural influence extends across centuries and continents, from the Moorish architecture of Andalusia to the vibrant canvases of the Spanish Golden Age. Spanish art reflects the country's tumultuous history, religious fervor, and diverse regional identities. It's intriguing to note that the word clouds derived from Spanish culture frequently revealed words like "Alhambra," "Barcelona," "Granada," and interestingly, "Woman."
+ *Key observation: Filtering out common words may reveal lesser-known artists or niche movements - for example, names of famous surrealists*
+ ![Alt Text](/assets/images/imageS.jpg)
+
+The word clouds for Spanish, German, and Austrian cultures all include words like "saints" and "untitled." These words reflect common themes in art, such as religious imagery and untitled works. Despite cultural differences, these themes are universal, showing how art connects people across cultures.
+
+> In terms of the artworks the Harvard Art Museum has collected over time, there were some noticeable trends. Sometimes, they collected more art from one country than others(mostly from Germany in my case), and this changed over the years. This could be because of different reasons, like what was popular at the time or what donors were interested in. 
+
+The value and placement of artworks can differ based on their location. For instance, while a prized Italian mosaic may be heavily guarded and showcased at the Louvre Abu Dhabi, similar pieces may be found underfoot while walking around Rome. This illustrates how the significance and accessibility of art can vary depending on its context.
+
+![Alt Text](/assets/images/imageBar1.jpg)
+
+![Alt Text](/assets/images/imagebar2.jpg)
+
+I really enjoyed going through this process because it helped me learn more about different cultures' art. It was interesting to see how each country's art has its own story to tell, and how they all fit together in a museum collection. Other museums may have different collecting focuses, audience demographics, and institutional missions, which can influence their acquisition strategies and preferences.
 
