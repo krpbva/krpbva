@@ -74,3 +74,5 @@ The value and placement of artworks can differ based on their location. For inst
 
 I really enjoyed going through this process because it helped me learn more about different cultures' art. It was interesting to see how each country's art has its own story to tell, and how they all fit together in a museum collection. Other museums may have different collecting focuses, audience demographics, and institutional missions, which can influence their acquisition strategies and preferences.
 
+Ready for grading ☘️
+
