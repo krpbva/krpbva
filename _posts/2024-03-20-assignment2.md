@@ -36,12 +36,16 @@ I was particularly interested in that piece. I have never read the novel itself 
 
 Austen's meticulous attention to character names underscores the importance of propriety and decorum in interpersonal relationships, with characters often adhering to societal expectations in their interactions. Hopeful words like "hope" and "wish" reveal characters' desires.  Words such as "friend," "soon," and "time" highlight the centrality of relationships and the passage of time in Austen's narratives. Despite her good intentions, Emma's attempts at matchmaking often lead to unintended consequences, highlighting the complexities of human relationships and the importance of self-awareness. Positive adjectives like "good" and "better" contribute to the nuanced portrayal of characters and the use of archaic language like "shall" adds authenticity to Austen's depiction of the era, immersing readers in the formalities and language conventions of the time. 
 
+> *...and I dare say we shall...*
+
 3. **Persuasion:** Written towards the end of Austen's life and published posthumously in 1817, "Persuasion" is a poignant tale of second chances and lost love. The novel follows Anne Elliot, a woman who must confront the consequences of her decision to reject a suitor years earlier, as she navigates the complexities of family dynamics and the pursuit of happiness.
 
 
 ![Alt Text](/assets/images/imageAnne.jpg)
 
 In the "Persuasion" word cloud, you'll see names like Anne and Elliot, showing their importance. "Captain" probably refers to Captain Wentworth. Other words like "lady" and "little" might relate to social status, while "soon" could be about Anne's anticipation. "Think" might show Anne's intelligence.
+
+Using tools like 'dreamscape' in Voyant Tools, we can explore where places mentioned in texts are located on a map. It's interesting that sometimes, even when a story is set in England, American cities show up on the map. This happens because some cities in America and England have the same names. While it's neat to see these connections between distant places, it also means we need to be careful when interpreting the data. We have to make sure we understand the context well to figure out which city the text is really talking about. This mix of literature and geography shows us how connected the world can be, but it also reminds us to dig deeper to get the full picture.
 
 
 
