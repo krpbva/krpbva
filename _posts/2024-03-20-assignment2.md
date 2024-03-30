@@ -26,6 +26,8 @@ The word cloud generated for Jane Austen's "Sense and Sensibility" provides valu
 
 2. **Persuasion:** Written towards the end of Austen's life and published posthumously in 1817, "Persuasion" is a poignant tale of second chances and lost love. The novel follows Anne Elliot, a woman who must confront the consequences of her decision to reject a suitor years earlier, as she navigates the complexities of family dynamics and the pursuit of happiness.
 
+![Alt Text](/assets/images/imageAnne.jpg)
+
 3. **Emma:** Published in 1815, "Emma" is a comedic masterpiece that follows the exploits of its eponymous heroine, Emma Woodhouse, as she meddles in the romantic affairs of those around her while remaining oblivious to her own heart's desires. Through Emma's journey of self-discovery and maturation, Austen offers a charming exploration of love, friendship, and the consequences of misguided matchmaking.
 
 I have never read the novel itself.  However, I started watching the movie based on this book, that is why it really interested me for some time.  On the Internet, I came across interesting information; they say that Jane Austen herself did not value her 1816 novel *Emma* very highly: it’s just that after reading it in the family circle, she did not receive praise and enthusiastic statements. However, it was in this mature work that the writer’s talent manifested itself especially clearly; her ironic mind created memorable and recognizable images that will be of interest to modern readers. The English novelist is distinguished by her good knowledge of human nature and the ability to show common shortcomings with humor.
