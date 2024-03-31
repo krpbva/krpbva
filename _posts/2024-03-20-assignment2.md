@@ -10,6 +10,8 @@ When considering which author and works to analyze for this assignment, my mind 
 
 Jane Austen, one of the most celebrated authors in English literature, is renowned for her keen insights into human nature, sharp wit, and observations of society. Born on December 16, 1775, in Steventon, Hampshire, England, Austen's works have left an indelible mark on the literary world, despite her relatively short life. Her novels continue to captivate readers worldwide with their rich characterizations, intricate plots, and timeless themes.
 
+In this task, I will delve into Austen's works "Sense and Sensibility," "Persuasion," and "Emma," using digital textual analysis tools to uncover deeper insights into Austen's themes, characters, and narrative techniques. Through Voyant Tools and other resources, I aim to gain a deeper appreciation of Austen's literary genius and the enduring relevance of her works in the 21st century.
+
 ### Jane Austen's Style
 
 Austen's writing style is characterized by its elegance, irony, and satirical wit. She masterfully blends social commentary with compelling narratives, offering readers a window into the intricacies of Regency-era England. Austen's prose is marked by its clarity and precision, allowing her to explore complex themes such as love, marriage, class, and societal expectations with subtlety and nuance.
@@ -32,8 +34,10 @@ The word cloud generated for Jane Austen's "Sense and Sensibility" provides valu
 
 I was particularly interested in that piece. I have never read the novel itself before, however, I started watching the movie based on this book. On the web, I came across interesting information; they say that Jane Austen herself did not value her 1816 novel *Emma* very highly: it’s just that after reading it in the family circle, she did not receive praise and enthusiastic statements. However, it was in this mature work that the writer’s talent manifested itself especially clearly; her ironic mind created memorable and recognizable images that will be of interest to modern readers. The English novelist is distinguished by her good knowledge of human nature and the ability to show common shortcomings with humor.
 
+
 ![Alt Text](/assets/images/imageEmma.jpg)
 
+An ironic novel about a young woman who constantly interferes in other people's personal affairs and wooes her friends. Emma is neither poor nor married. She is a big dreamer and does not strive to become a wife; instead, the girl finds life partners for her friends and arranges weddings. Busy with others, Emma almost misses her chance at love.
 Austen's meticulous attention to character names underscores the importance of propriety and decorum in interpersonal relationships, with characters often adhering to societal expectations in their interactions. Hopeful words like "hope" and "wish" reveal characters' desires.  Words such as "friend," "soon," and "time" highlight the centrality of relationships and the passage of time in Austen's narratives. Despite her good intentions, Emma's attempts at matchmaking often lead to unintended consequences, highlighting the complexities of human relationships and the importance of self-awareness. Positive adjectives like "good" and "better" contribute to the nuanced portrayal of characters and the use of archaic language like "shall" adds authenticity to Austen's depiction of the era, immersing readers in the formalities and language conventions of the time. 
 
 > *...and I dare say we shall...*
@@ -45,10 +49,10 @@ Austen's meticulous attention to character names underscores the importance of p
 
 In the "Persuasion" word cloud, you'll see names like Anne and Elliot, showing their importance. "Captain" probably refers to Captain Wentworth. Other words like "lady" and "little" might relate to social status, while "soon" could be about Anne's anticipation. "Think" might show Anne's intelligence.
 
-Using tools like 'dreamscape' in Voyant Tools, we can explore where places mentioned in texts are located on a map. It's interesting that sometimes, even when a story is set in England, American cities show up on the map. This happens because some cities in America and England have the same names. While it's neat to see these connections between distant places, it also means we need to be careful when interpreting the data. We have to make sure we understand the context well to figure out which city the text is really talking about. This mix of literature and geography shows us how connected the world can be, but it also reminds us to dig deeper to get the full picture.
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=d894e3e7a4c67ceaae36ddeeeca5f90d&mode=document&view=TermsRadio'></iframe>
+
+Using tools like 'dreamscape' in Voyant Tools, we can explore where places mentioned in texts are located on a map. But it's interesting that sometimes, even when a story is set in England, American cities show up on the map. This happens because some cities in America and England have the same names. While it's neat to see these connections between distant places, it also means we need to be careful when interpreting the data. We have to make sure we understand the context well to figure out which city the text is really talking about. This mix of literature and geography shows us how connected the world can be, but it also reminds us to dig deeper to get the full picture.
+
+Differences in the ways the word clouds visualize the words include variations in word frequency, prominence of character names or thematic terms, and overall thematic focus. For example, the word cloud for "Sense and Sensibility" may emphasize family relationships and domestic settings, while the word cloud for "Persuasion" may highlight themes of love and longing. These differences reflect the unique thematic and narrative elements present in each work.
 
 
-
-
-
-In this task, I will delve into Austen's works "Sense and Sensibility," "Persuasion," and "Emma," using digital textual analysis tools to uncover deeper insights into Austen's themes, characters, and narrative techniques. Through Voyant Tools and other resources, we aim to gain a deeper appreciation of Austen's literary genius and the enduring relevance of her works in the 21st century.
