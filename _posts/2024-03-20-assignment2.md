@@ -55,6 +55,20 @@ I really like using TermRadio in Voyant Tools. It helps me see how often certain
 
 Using tools like 'dreamscape' in Voyant Tools, we can explore where places mentioned in texts are located on a map. But it's interesting that sometimes, even when a story is set in England, American cities show up on the map. This happens because some cities in America and England have the same names. While it's neat to see these connections between distant places, it also means we need to be careful when interpreting the data. We have to make sure we understand the context well to figure out which city the text is really talking about. This mix of literature and geography shows us how connected the world can be, but it also reminds us to dig deeper to get the full picture.
 
-Differences in the ways the word clouds visualize the words include variations in word frequency, prominence of character names or thematic terms, and overall thematic focus. For example, the word cloud for "Sense and Sensibility" may emphasize family relationships and domestic settings, while the word cloud for "Persuasion" may highlight themes of love and longing. These differences reflect the unique thematic and narrative elements present in each work.
+Differences in the ways the word clouds visualize the words include variations in word frequency, prominence of character names or thematic terms, and overall thematic focus. For example, the word cloud for "Sense and Sensibility" may emphasize family relationships and domestic settings, while the word cloud for "Persuasion" may highlight themes of love and longing. These differences reflect the unique thematic and narrative elements present in each work. Generally, looking at all of those tools, we can say that computational thinking enables scholars to navigate complex data sets, automate repetitive tasks(mentioned in "On the Way to Computational
+Thinking"), and develop innovative research methodologies.This aligns with my work, which explores literary analysis using computational tools like word clouds and TermRadio to uncover insights in texts by authors like Jane Austen.
+
+
+Jane Austen, praised by W. Scott as unmatched, still influences literature today. Her books, known for their deep understanding of people and clever storytelling, remain important today. Austen's novels take us to the world of English nobility, showing it with humor and intelligence. 
+
+
+Reference: 
+* Voyant Tools
+* https://www.gutenberg.org/ebooks/158
+* https://www.gutenberg.org/ebooks/161
+* https://www.gutenberg.org/ebooks/105
+* https://www.britannica.com/biography/Jane-Austen
+* https://drive.google.com/file/d/10JKeKr9x79qBj8Bd6ND9wbOlOCFRSqNb/view
+
 
 
