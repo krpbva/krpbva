@@ -3,11 +3,6 @@ title: "Post: Assignment 2"
 toc: true
 ---
 
-{% if page.toc %}
-* Table of Contents
-{:toc}
-{% endif %}
-
 
 ## Introduction
 
