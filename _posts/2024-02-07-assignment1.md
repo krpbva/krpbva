@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 1"
+title: "Assignment 1"
 ---
 # Part 1: Exploring HAM Website
 

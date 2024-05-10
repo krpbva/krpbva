@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 2"
+title: "Assignment 2"
 toc: true
 ---
 
