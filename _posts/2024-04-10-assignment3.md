@@ -54,7 +54,7 @@ Based on the data provided, the quality of hotels varies significantly across di
 
 So, the best region for hotels, based on the data, is Western France. Specifically, Deauville offers consistently high-quality accommodations, with multiple hotels like Normandy and Royal rated "Excellent." This makes the region stand out for travelers seeking top-tier hospitality.
 
-To visualize the data, I used kepler.gl and batchgeo.com , a versatile tool that allowed me to map the hotel locations and categorize them by city, using different colors to represent each area. This visualization revealed interesting patterns, showing clusters of highly-reviewed hotels in popular tourist destinations like Lyon or other places in the French Riviera. 
+To visualize the data, I used tools like [kepler.gl](https://kepler.gl/), [batchgeo.com](https://batchgeo.com/) and google maps. Tools that allowed me to map the hotel locations and categorize them by city, using different lenses to view each area. This visualization revealed interesting patterns, showing clusters of highly-reviewed hotels in popular tourist destinations like Lyon or other places in the French Riviera. 
 
 Overall, this assignment provided valuable insights into travel trends and the ways in which historical data can reveal patterns that might still be relevant today. In longer perspective, I would expand my scope to cover additional pages and explore other countries to create a more comprehensive map of European travel recommendations from that era. This would reveal larger trends and perhaps highlight changes in travel patterns over time. Fielding's Travel Guide proved to be a good source, offering a view into a past where travel guides were the authoritative resource for explorers of the world.
 
