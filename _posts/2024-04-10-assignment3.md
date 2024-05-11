@@ -15,7 +15,43 @@ In the second step of the process, I needed to model the data into a usable form
 
 With the data extracted, I moved on to enrich it by adding relevant metadata.  The table presents accommodations across various French cities and regions, offering a snapshot of their distinctive features and quality. Some accommodations are classified as "excellent" or "good" for their superior amenities and prime locations, while others are deemed "fair" or "poor" due to limited facilities or declining standards. The table provides a structured overview for travelers seeking guidance in choosing suitable places to stay, catering to diverse preferences and budgets. These additional attributes gave a clearer picture of the distribution and quality of accommodations across different regions of France.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTA1ome961DWl_zL_CtY7coBPk_pKLPx4mdkbZHL_lSMcxKFDYjSKFsKthjYT07l-ZpoOJYx7zsRwZ2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+Based on the data provided, the quality of hotels varies significantly across different regions in France. Here are some key insights I found:
+
+1. **Best Quality Regions:**
+   - Aix-les-Bains: The Splendide et Royal hotel is rated "Excellent," with Astoria and Albion receiving "Good."
+   - Avallon: Poste stands out with an "Excellent" rating for its cuisine and setting.
+   - Deauville: Both Normandy and Royal are rated "Excellent."
+   - Digne: Ermitage Napoleon is "Excellent," noted for superior food and service.
+   - La Baule: The Hermitage hotel receives "Excellent" for overall quality.
+
+2. **Mixed Quality Regions:**
+   - Avignon: Le Prieuré is "Excellent," but Europe is "Good."
+   - Biarritz: Palais is "Sumptuous," while Miramar and Regina et Golf are "Good."
+   - Bordeaux: Royal Gascogne and Splendid are rated "Good," but Bordeaux and Terminus are considered "Fair."
+   - St.-Jean-de-Luz: Chantaco is "Good," while Édouard VII, Modern, and Madison are "Fair."
+
+3. **Lower Quality Regions:**
+   - Brest: Both Continental and Moderne are "Poor."
+   - Dunkerque: Victoria is the only option but "Poor."
+   - Mulhouse: Parc is "Poor."
+   - Orléans: Arcades is "Poor."
+   - Rouen: Astrid and Celtic are "Poor."
+
+**Patterns and Observations:**
+ 
+ Many hotels, particularly in Aix-les-Bains and Deauville, operate only seasonally, which could impact service availability.
+ 
+ Hotels with unique features like golf courses (St.-Jean-de-Luz) or a strong culinary reputation (Avallon) generally score well.
+ 
+ Urban hotels often have varying quality ratings, while rural gems like Le Prieuré (Avignon) excel.
+
+ Historic or prestigious hotels like Hermitage and Splendide et Royal tend to have higher ratings due to their legacy and customer expectations.
+
 ![Alt Text](/assets/images/mapimage.jpg)
+
+So, the best region for hotels, based on the data, is Western France. Specifically, Deauville offers consistently high-quality accommodations, with multiple hotels like Normandy and Royal rated "Excellent." This makes the region stand out for travelers seeking top-tier hospitality.
 
 To visualize the data, I used kepler.gl and batchgeo.com , a versatile tool that allowed me to map the hotel locations and categorize them by city, using different colors to represent each area. This visualization revealed interesting patterns, showing clusters of highly-reviewed hotels in popular tourist destinations like Lyon and the French Riviera. Additionally, smaller but high-quality hotels appeared in less-traveled regions, hinting at hidden gems for travelers willing to stray off the beaten path.
 
