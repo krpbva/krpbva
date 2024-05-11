@@ -32,6 +32,7 @@ My background in interactive media and art history has fueled my fascination wit
 In assignment 1, I had the opportunity to scroll through the digital collections of the **Harvard Art Museum**. Beyond completing the task at hand, this experience provided a gateway to exploring lesser-known works by renowned artists such as **Renoir**. Delving into the sketches of these artists, often overshadowed by their more prominent masterpieces, offered a fresh perspective on their creative processes and artistic evolution. This newfound knowledge not only enriched my understanding of art history but also broadened my appreciation for the diverse facets of artistic expression.
 
 What made this experience particularly invigorating for me is the opportunity to engage with a diverse cohort of classmates, each bringing their own unique blend of expertise and perspectives to the table. Working on **Unproject** was probably one of the best highlights of my semester. 
+I believe I could improve my geocoding skills, practiced in Assignment 3, as that task proved challenging for me. With more practice, I aim to become more proficient in this area.
 
 > From leveraging data analytics to track and mitigate environmental impacts to using digital storytelling to raise awareness and inspire action, I see immense potential for interdisciplinary collaboration to drive positive change in the world. 
 
