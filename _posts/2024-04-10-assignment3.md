@@ -60,5 +60,7 @@ Overall, this assignment provided valuable insights into travel trends and the w
 
 For future, I am enthusiastic about analyzing environmental data, particularly focusing on air quality metrics across various regions. An ideal source for this project would be comprehensive databases from environmental monitoring agencies like the Environmental Protection Agency (EPA) in the United States or the European Environment Agency (EEA). They collect detailed and reliable data on pollutants such as PM2.5, PM10, nitrogen dioxide, sulfur dioxide, and ozone levels. This data provides an invaluable foundation for analyzing trends, comparing regional air quality, and assessing the impact of environmental policies. Since the data is regularly updated and publicly accessible, it enables a detailed and current analysis. I'd love to focus on specific regions and compare them, or perhaps apply methodologies similar to what we saw in class with air quality in Amsterdam. Mapping this information for cities like New York, London, and Zürich would be fascinating, offering a comprehensive comparative analysis that could yield important insights into urban environmental health.
 
+Ready for Grading
+
 
 
